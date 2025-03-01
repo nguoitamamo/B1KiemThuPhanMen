@@ -15,7 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
+    <_EmbedManagedResourceFile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </_EmbedManagedResourceFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
